@@ -1,0 +1,25 @@
+﻿  Source.cpp
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(81): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(81): error C2143: syntax error: missing ',' before '&'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(44): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(44): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(46): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(46): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(48): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(48): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(50): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(50): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(52): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(52): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(57): error C2352: 'MyInteger::isEven': illegal call of non-static member function
+  f:\cs 2\ex03\ex03_05\ex03_05\header.h(15): note: see declaration of 'MyInteger::isEven'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(62): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(62): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(62): error C2568: '<': unable to resolve function overload
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(64): error C2597: illegal reference to non-static member 'MyInteger::value'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(64): error C3867: 'MyInteger::value': non-standard syntax; use '&' to create a pointer to member
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(82): error C2146: syntax error: missing ';' before identifier 'myString'
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(82): error C2065: 'myString': undeclared identifier
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(83): error C2065: 'myString': undeclared identifier
+f:\cs 2\ex03\ex03_05\ex03_05\header.h(83): error C2228: left of '.c_str' must have class/struct/union
+  f:\cs 2\ex03\ex03_05\ex03_05\header.h(83): note: type is 'unknown-type'
